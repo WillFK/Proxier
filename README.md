@@ -1,2 +1,2 @@
 # Proxier
-Experiments with network serttings
+Experiments with network settings
